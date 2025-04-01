@@ -4,12 +4,11 @@ import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performTextInput
 import com.mexiti.costogasolina.ui.theme.CostoGasolinaTheme
-import org.junit.Assert.assertEquals
 import org.junit.Rule
 import org.junit.Test
 import java.text.NumberFormat
 
-class CalcularMontoUITest {
+class CalcularMonto2UITest {
     @get:Rule
     val composeTestRule = createComposeRule()
 
